@@ -1,0 +1,538 @@
+[
+  {
+    "expiration_timestamp": "2019-04-12",
+    "total_profits": 104500.8
+  },
+  {
+    "expiration_timestamp": "2019-04-19",
+    "total_profits": 106087.17
+  },
+  {
+    "expiration_timestamp": "2019-04-26",
+    "total_profits": 107908.9
+  },
+  {
+    "expiration_timestamp": "2019-05-03",
+    "total_profits": 111254.84
+  },
+  {
+    "expiration_timestamp": "2019-05-10",
+    "total_profits": 113129.56
+  },
+  {
+    "expiration_timestamp": "2019-05-17",
+    "total_profits": 116275.64
+  },
+  {
+    "expiration_timestamp": "2019-05-24",
+    "total_profits": 120943.6
+  },
+  {
+    "expiration_timestamp": "2019-06-07",
+    "total_profits": 125046.28
+  },
+  {
+    "expiration_timestamp": "2019-06-14",
+    "total_profits": 126872.62
+  },
+  {
+    "expiration_timestamp": "2019-06-21",
+    "total_profits": 132075.12
+  },
+  {
+    "expiration_timestamp": "2019-06-28",
+    "total_profits": 134406.73
+  },
+  {
+    "expiration_timestamp": "2019-07-05",
+    "total_profits": 135977.21
+  },
+  {
+    "expiration_timestamp": "2019-07-05",
+    "total_profits": 137123.81
+  },
+  {
+    "expiration_timestamp": "2019-07-12",
+    "total_profits": 142405.2
+  },
+  {
+    "expiration_timestamp": "2019-07-19",
+    "total_profits": 145976.53
+  },
+  {
+    "expiration_timestamp": "2019-08-02",
+    "total_profits": 147995.93
+  },
+  {
+    "expiration_timestamp": "2019-08-09",
+    "total_profits": 152130.36
+  },
+  {
+    "expiration_timestamp": "2019-08-16",
+    "total_profits": 155390.98
+  },
+  {
+    "expiration_timestamp": "2019-08-23",
+    "total_profits": 159131.04
+  },
+  {
+    "expiration_timestamp": "2019-08-30",
+    "total_profits": 160592.17
+  },
+  {
+    "expiration_timestamp": "2019-09-06",
+    "total_profits": 162880.7
+  },
+  {
+    "expiration_timestamp": "2019-09-13",
+    "total_profits": 166308.89
+  },
+  {
+    "expiration_timestamp": "2019-09-20",
+    "total_profits": 169291.04
+  },
+  {
+    "expiration_timestamp": "2019-10-04",
+    "total_profits": 176029.2
+  },
+  {
+    "expiration_timestamp": "2019-10-11",
+    "total_profits": 180715.66
+  },
+  {
+    "expiration_timestamp": "2019-10-18",
+    "total_profits": 184687.73
+  },
+  {
+    "expiration_timestamp": "2019-10-25",
+    "total_profits": 186226.6
+  },
+  {
+    "expiration_timestamp": "2019-11-01",
+    "total_profits": 190420.7
+  },
+  {
+    "expiration_timestamp": "2019-11-08",
+    "total_profits": 194181.19
+  },
+  {
+    "expiration_timestamp": "2019-11-29",
+    "total_profits": 199186.21
+  },
+  {
+    "expiration_timestamp": "2019-12-06",
+    "total_profits": 202505.84
+  },
+  {
+    "expiration_timestamp": "2019-12-13",
+    "total_profits": 204099.64
+  },
+  {
+    "expiration_timestamp": "2019-12-20",
+    "total_profits": 207123.44
+  },
+  {
+    "expiration_timestamp": "2019-12-27",
+    "total_profits": 208568.59
+  },
+  {
+    "expiration_timestamp": "2020-01-17",
+    "total_profits": 211921.02
+  },
+  {
+    "expiration_timestamp": "2020-02-21",
+    "total_profits": 214196.3799999999
+  },
+  {
+    "expiration_timestamp": "2020-03-06",
+    "total_profits": 217329.6199999999
+  },
+  {
+    "expiration_timestamp": "2020-03-13",
+    "total_profits": 117329.6199999999
+  },
+  {
+    "expiration_timestamp": "2020-03-20",
+    "total_profits": 131719.5199999999
+  },
+  {
+    "expiration_timestamp": "2020-04-03",
+    "total_profits": 141113.7299999999
+  },
+  {
+    "expiration_timestamp": "2020-04-10",
+    "total_profits": 147348.1899999999
+  },
+  {
+    "expiration_timestamp": "2020-04-17",
+    "total_profits": 153147.7199999999
+  },
+  {
+    "expiration_timestamp": "2020-05-01",
+    "total_profits": 156334.9899999999
+  },
+  {
+    "expiration_timestamp": "2020-05-08",
+    "total_profits": 159780.0799999999
+  },
+  {
+    "expiration_timestamp": "2020-05-15",
+    "total_profits": 168360.2299999999
+  },
+  {
+    "expiration_timestamp": "2020-05-22",
+    "total_profits": 175744.2899999999
+  },
+  {
+    "expiration_timestamp": "2020-06-05",
+    "total_profits": 179532.7499999999
+  },
+  {
+    "expiration_timestamp": "2020-06-12",
+    "total_profits": 182808.6399999999
+  },
+  {
+    "expiration_timestamp": "2020-06-19",
+    "total_profits": 185616.7499999999
+  },
+  {
+    "expiration_timestamp": "2020-08-07",
+    "total_profits": 188422.7999999998
+  },
+  {
+    "expiration_timestamp": "2020-08-21",
+    "total_profits": 192369.2799999999
+  },
+  {
+    "expiration_timestamp": "2020-09-11",
+    "total_profits": 196516.3099999999
+  },
+  {
+    "expiration_timestamp": "2020-11-06",
+    "total_profits": 200325.8099999999
+  },
+  {
+    "expiration_timestamp": "2020-11-13",
+    "total_profits": 203740.4499999999
+  },
+  {
+    "expiration_timestamp": "2020-12-04",
+    "total_profits": 208047.9999999999
+  },
+  {
+    "expiration_timestamp": "2020-12-11",
+    "total_profits": 211917.0699999998
+  },
+  {
+    "expiration_timestamp": "2020-12-18",
+    "total_profits": 216297.2599999998
+  },
+  {
+    "expiration_timestamp": "2021-01-01",
+    "total_profits": 220067.9199999999
+  },
+  {
+    "expiration_timestamp": "2021-01-01",
+    "total_profits": 223456.2099999999
+  },
+  {
+    "expiration_timestamp": "2021-01-08",
+    "total_profits": 232375.8499999998
+  },
+  {
+    "expiration_timestamp": "2021-01-15",
+    "total_profits": 244738.0899999999
+  },
+  {
+    "expiration_timestamp": "2021-01-22",
+    "total_profits": 254045.5699999998
+  },
+  {
+    "expiration_timestamp": "2021-02-05",
+    "total_profits": 258748.6499999998
+  },
+  {
+    "expiration_timestamp": "2021-02-12",
+    "total_profits": 263786.5199999998
+  },
+  {
+    "expiration_timestamp": "2021-02-19",
+    "total_profits": 268162.6099999999
+  },
+  {
+    "expiration_timestamp": "2021-02-19",
+    "total_profits": 272525.3399999999
+  },
+  {
+    "expiration_timestamp": "2021-03-05",
+    "total_profits": 277200.4599999998
+  },
+  {
+    "expiration_timestamp": "2021-03-12",
+    "total_profits": 281065.1699999999
+  },
+  {
+    "expiration_timestamp": "2021-03-19",
+    "total_profits": 287021.4499999999
+  },
+  {
+    "expiration_timestamp": "2021-04-02",
+    "total_profits": 291137.3499999999
+  },
+  {
+    "expiration_timestamp": "2021-04-09",
+    "total_profits": 295932.3599999999
+  },
+  {
+    "expiration_timestamp": "2021-04-16",
+    "total_profits": 299085.0899999999
+  },
+  {
+    "expiration_timestamp": "2021-04-23",
+    "total_profits": 304887.4999999999
+  },
+  {
+    "expiration_timestamp": "2021-05-07",
+    "total_profits": 308347.6399999999
+  },
+  {
+    "expiration_timestamp": "2021-05-14",
+    "total_profits": 273623.0999999999
+  },
+  {
+    "expiration_timestamp": "2021-05-21",
+    "total_profits": 278619.4899999999
+  },
+  {
+    "expiration_timestamp": "2021-06-04",
+    "total_profits": 286342.51
+  },
+  {
+    "expiration_timestamp": "2021-06-11",
+    "total_profits": 292283.51
+  },
+  {
+    "expiration_timestamp": "2021-06-18",
+    "total_profits": 299687.77
+  },
+  {
+    "expiration_timestamp": "2021-07-02",
+    "total_profits": 306314.97
+  },
+  {
+    "expiration_timestamp": "2021-07-09",
+    "total_profits": 311198.8799999999
+  },
+  {
+    "expiration_timestamp": "2021-07-16",
+    "total_profits": 315611.4899999999
+  },
+  {
+    "expiration_timestamp": "2021-07-23",
+    "total_profits": 319670.4699999999
+  },
+  {
+    "expiration_timestamp": "2021-08-06",
+    "total_profits": 324182.6699999999
+  },
+  {
+    "expiration_timestamp": "2021-08-13",
+    "total_profits": 328458.4799999999
+  },
+  {
+    "expiration_timestamp": "2021-08-20",
+    "total_profits": 332674.6199999999
+  },
+  {
+    "expiration_timestamp": "2021-09-03",
+    "total_profits": 337841.1099999999
+  },
+  {
+    "expiration_timestamp": "2021-09-10",
+    "total_profits": 341318.3099999999
+  },
+  {
+    "expiration_timestamp": "2021-09-17",
+    "total_profits": 345231.89
+  },
+  {
+    "expiration_timestamp": "2021-10-01",
+    "total_profits": 349746.45
+  },
+  {
+    "expiration_timestamp": "2021-10-01",
+    "total_profits": 354468.95
+  },
+  {
+    "expiration_timestamp": "2021-10-08",
+    "total_profits": 358855.04
+  },
+  {
+    "expiration_timestamp": "2021-10-15",
+    "total_profits": 363312.97
+  },
+  {
+    "expiration_timestamp": "2021-10-22",
+    "total_profits": 368983.32
+  },
+  {
+    "expiration_timestamp": "2021-11-05",
+    "total_profits": 373243.85
+  },
+  {
+    "expiration_timestamp": "2021-11-12",
+    "total_profits": 376178.15
+  },
+  {
+    "expiration_timestamp": "2021-11-19",
+    "total_profits": 348897.51
+  },
+  {
+    "expiration_timestamp": "2021-12-03",
+    "total_profits": 353114.6
+  },
+  {
+    "expiration_timestamp": "2021-12-10",
+    "total_profits": 358455.2
+  },
+  {
+    "expiration_timestamp": "2021-12-17",
+    "total_profits": 364095.96
+  },
+  {
+    "expiration_timestamp": "2021-12-24",
+    "total_profits": 365941.76
+  },
+  {
+    "expiration_timestamp": "2022-01-07",
+    "total_profits": 367830.69
+  },
+  {
+    "expiration_timestamp": "2022-01-14",
+    "total_profits": 372203.47
+  },
+  {
+    "expiration_timestamp": "2022-01-21",
+    "total_profits": 373727.37
+  },
+  {
+    "expiration_timestamp": "2022-02-04",
+    "total_profits": 376221.3
+  },
+  {
+    "expiration_timestamp": "2022-02-04",
+    "total_profits": 378427.42
+  },
+  {
+    "expiration_timestamp": "2022-02-11",
+    "total_profits": 382323.53
+  },
+  {
+    "expiration_timestamp": "2022-02-18",
+    "total_profits": 386973.93
+  },
+  {
+    "expiration_timestamp": "2022-03-04",
+    "total_profits": 390148.49
+  },
+  {
+    "expiration_timestamp": "2022-03-11",
+    "total_profits": 394191.42
+  },
+  {
+    "expiration_timestamp": "2022-03-18",
+    "total_profits": 397256.76
+  },
+  {
+    "expiration_timestamp": "2022-04-01",
+    "total_profits": 400460.38
+  },
+  {
+    "expiration_timestamp": "2022-04-08",
+    "total_profits": 403741.15
+  },
+  {
+    "expiration_timestamp": "2022-04-15",
+    "total_profits": 405239.34
+  },
+  {
+    "expiration_timestamp": "2022-04-22",
+    "total_profits": 406730.73
+  },
+  {
+    "expiration_timestamp": "2022-05-06",
+    "total_profits": 408543.2
+  },
+  {
+    "expiration_timestamp": "2022-05-13",
+    "total_profits": 383579.6
+  },
+  {
+    "expiration_timestamp": "2022-05-20",
+    "total_profits": 389033.53
+  },
+  {
+    "expiration_timestamp": "2022-06-03",
+    "total_profits": 392296.5600000001
+  },
+  {
+    "expiration_timestamp": "2022-06-10",
+    "total_profits": 395021.6900000001
+  },
+  {
+    "expiration_timestamp": "2022-06-17",
+    "total_profits": 340979.29
+  },
+  {
+    "expiration_timestamp": "2022-07-01",
+    "total_profits": 346540.86
+  },
+  {
+    "expiration_timestamp": "2022-07-08",
+    "total_profits": 352534.0000000001
+  },
+  {
+    "expiration_timestamp": "2022-07-15",
+    "total_profits": 355772.2000000001
+  },
+  {
+    "expiration_timestamp": "2022-07-22",
+    "total_profits": 358184.0000000001
+  },
+  {
+    "expiration_timestamp": "2022-08-05",
+    "total_profits": 361233.48
+  },
+  {
+    "expiration_timestamp": "2022-08-12",
+    "total_profits": 365434.1
+  },
+  {
+    "expiration_timestamp": "2022-08-19",
+    "total_profits": 369374.6300000001
+  },
+  {
+    "expiration_timestamp": "2022-09-02",
+    "total_profits": 371984.5000000001
+  },
+  {
+    "expiration_timestamp": "2022-09-09",
+    "total_profits": 375063.0600000001
+  },
+  {
+    "expiration_timestamp": "2022-09-16",
+    "total_profits": 378736.41
+  },
+  {
+    "expiration_timestamp": "2022-09-23",
+    "total_profits": 384219.47
+  },
+  {
+    "expiration_timestamp": "2022-10-07",
+    "total_profits": 387775.58
+  },
+  {
+    "expiration_timestamp": "2022-10-14",
+    "total_profits": 390908.35
+  }
+]
